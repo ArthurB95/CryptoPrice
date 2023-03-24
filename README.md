@@ -44,11 +44,13 @@ $ git clone https://github.com/ArthurB95/CryptoPrice.git
 
 The technology used for this application was React Native and Expo, below is the official documentation:
 
--   **[React Native](https://reactnative.dev/)**
--   **[Expo](https://docs.expo.dev/)**
+-   **HTML**
+-   **CSS**
+-   **JS**
+-   **The api used was from the CoinGecko website: [CoinGecko](https://www.coingecko.com/pt/api/documentation])**
 
 ---
 
 ## 💪 Thanks
 
--   This project was made thanks to the channel **[notJust.dev](https://www.youtube.com/c/notjustdev)**. Access the channel and support the created.
+-   This project was made thanks to the channel **[AsmrProg](https://www.youtube.com/@AsmrProg/videos)**. Access the channel and support the created.
