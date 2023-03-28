@@ -42,7 +42,7 @@ $ git clone https://github.com/ArthurB95/CryptoPrice.git
 
 ## 🛠 Technologies
 
-The technology used for this application was React Native and Expo, below is the official documentation:
+The technology used for this application was:
 
 -   **HTML**
 -   **CSS**
